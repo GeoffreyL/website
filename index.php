@@ -437,75 +437,6 @@
             </div>
         </section>
 
-<!--        <section class="news_area pad" id="news">-->
-<!--            <div class="main_title">-->
-<!--                <h2>News</h2>-->
-<!--            </div>-->
-<!--            <div class="news_inner_area">-->
-<!--                <div class="row">-->
-<!--                    <div class="col-md-4">-->
-<!--                        <div class="twitter_area wow fadeInLeft animated">-->
-<!--                            <div class="w_title">-->
-<!--                                <h3><i class="fa fa-twitter"></i>Twitter</h3>-->
-<!--                            </div>-->
-<!--                            <ul>-->
-<!--                                <li><a href="#">@themexart:</a> Lorem ipsum dolors sit amets consectetur adipicing elit sed do eiusmod tempor incididunt ut labore.</li>-->
-<!--                                <li><a href="#">@themexart:</a> Lorem ipsum dolors sit amets consectetur adipicing elit sed do eiusmod tempor incididunt ut labore.</li>-->
-<!--                                <li><a href="#">@themexart:</a> Lorem ipsum dolors sit amets consectetur adipicing elit sed do eiusmod tempor incididunt ut labore.</li>-->
-<!--                                <li><a href="#">@themexart:</a> Lorem ipsum dolors sit amets consectetur adipicing elit sed do eiusmod tempor incididunt ut labore.</li>-->
-<!--                            </ul>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="col-md-4">-->
-<!--                        <div class="blog_slider_area wow fadeInUp animated">-->
-<!--                            <div class="w_title">-->
-<!--                                <h3>Blog</h3>-->
-<!--                            </div>-->
-<!--                            <div class="blog_slider_inner">-->
-<!--                                <div class="item">-->
-<!--                                    <img src="img/blog/blog-1.jpg" alt="">-->
-<!--                                    <a href="#"><h3>The Importance of User Experience</h3></a>-->
-<!--                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis... <a href="#">Read More</a></p>-->
-<!--                                    <h5>Posted by <a href="http://rocky.obaidul.com">Rocky</a> at 04 Feb, 2017</h5>-->
-<!--                                </div>-->
-<!--                                <div class="item">-->
-<!--                                    <img src="img/blog/blog-2.jpg" alt="">-->
-<!--                                    <a href="#"><h3>The Importance of User Experience</h3></a>-->
-<!--                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis... <a href="#">Read More</a></p>-->
-<!--                                    <h5>Posted by <a href="http://rocky.obaidul.com">Rocky</a> at 04 Feb, 2017</h5>-->
-<!--                                </div>-->
-<!--                                <div class="item">-->
-<!--                                    <img src="img/blog/blog-3.jpg" alt="">-->
-<!--                                    <a href="#"><h3>The Importance of User Experience</h3></a>-->
-<!--                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis... <a href="#">Read More</a></p>-->
-<!--                                    <h5>Posted by <a href="http://rocky.obaidul.com">Rocky</a> at 04 Feb, 2017</h5>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="col-md-4">-->
-<!--                        <div class="instagram_area wow fadeInRight animated">-->
-<!--                            <div class="w_title">-->
-<!--                                <h3><i class="fa fa-instagram"></i>Instagram</h3>-->
-<!--                            </div>-->
-<!--                            <ul>-->
-<!--                                <li><a href="#"><img src="img/instagram/instagram-1.jpg" alt=""></a></li>-->
-<!--                                <li><a href="#"><img src="img/instagram/instagram-2.jpg" alt=""></a></li>-->
-<!--                                <li><a href="#"><img src="img/instagram/instagram-3.jpg" alt=""></a></li>-->
-<!--                                <li><a href="#"><img src="img/instagram/instagram-4.jpg" alt=""></a></li>-->
-<!--                                <li><a href="#"><img src="img/instagram/instagram-5.jpg" alt=""></a></li>-->
-<!--                                <li><a href="#"><img src="img/instagram/instagram-6.jpg" alt=""></a></li>-->
-<!--                                <li><a href="#"><img src="img/instagram/instagram-7.jpg" alt=""></a></li>-->
-<!--                                <li><a href="#"><img src="img/instagram/instagram-8.jpg" alt=""></a></li>-->
-<!--                                <li><a href="#"><img src="img/instagram/instagram-9.jpg" alt=""></a></li>-->
-<!--                            </ul>-->
-<!--                            <a class="follow_btn" href="#"><i class="fa fa-instagram"></i> Follow on Instagram</a>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </section>-->
-
         <section class="contact_area pad" id="contact">
 
             <div class="row">
@@ -547,41 +478,7 @@
 
                     </div>
                 </div>
-<!--                <div class="col-md-6">-->
-<!--                    <div class="contact_from_area wow fadeInUp animated">-->
-<!--                        <div class="contact_title">-->
-<!--                            <h3>Send Message</h3>-->
-<!--                        </div>-->
-<!--                        <div class="row">-->
-<!--                            <form action="contact_process.php" method="post" id="contactForm">-->
-<!--                                <div class="form-group col-md-12">-->
-<!--                                    <input type="text" class="form-control" name="name" id="name" placeholder="First Name*">-->
-<!--                                </div>-->
-<!--                                <div class="form-group col-md-12">-->
-<!--                                    <input type="text" class="form-control" name="last" id="last" placeholder="Last Name*">-->
-<!--                                </div>-->
-<!--                                <div class="form-group col-md-12">-->
-<!--                                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email*">-->
-<!--                                </div>-->
-<!--                                <div class="form-group col-md-12">-->
-<!--                                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject">-->
-<!--                                </div>-->
-<!--                                <div class="form-group col-md-12">-->
-<!--                                    <textarea class="form-control" rows="1" id="message" name="message" placeholder="Write Message"></textarea>-->
-<!--                                </div>-->
-<!--                                <div class="form-group col-md-12">-->
-<!--                                    <button class="btn btn-default contact_btn" type="submit"><span>Send Massage</span></button>-->
-<!--                                </div>-->
-<!--                            </form>-->
-<!--                            <div id="success">-->
-<!--                                <p>Your text message sent successfully!</p>-->
-<!--                            </div>-->
-<!--                            <div id="error">-->
-<!--                                <p>Sorry! Message not sent. Something went wrong!!</p>-->
-<!--                            </div>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
+
             </div>
         </section>
 
@@ -589,23 +486,6 @@
 </div>
 
 <footer class="footer_area">
-<!--    <div class="footer_inner">-->
-<!--        <div class="container">-->
-<!--            <img src="img/footer-logo.png" alt="">-->
-<!--            <ul class="social_icon">-->
-<!--                <li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
-<!--                <li><a href="#"><i class="fa fa-twitter"></i></a></li>-->
-<!--                <li><a href="#"><i class="fa fa-instagram"></i></a></li>-->
-<!--                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>-->
-<!--                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>-->
-<!--                <li><a href="#"><i class="fa fa-pinterest"></i></a></li>-->
-<!--                <li><a href="#"><i class="fa fa-skype"></i></a></li>-->
-<!--                <li><a href="#"><i class="fa fa-flickr"></i></a></li>-->
-<!--                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>-->
-<!--                <li><a href="#"><i class="fa fa-rss"></i></a></li>-->
-<!--            </ul>-->
-<!--        </div>-->
-<!--    </div>-->
     <div class="footer_copyright">
         <div class="container">
             <div class="pull-left">
